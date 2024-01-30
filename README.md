@@ -45,5 +45,5 @@ source install
 ros2 launch face_detect launch.py
 ```
 ### Output 
-![Face Detection](Output.png)
+![Face Detection](face_detect/Output.png)
 
